@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+header {
+  width: 100%;
+  min-height: 300px;
+  background-color: #00486e;
+}
+
+.container {
+  max-width: 900px;
+  max-width: 0 auto;
+}
+
+.logo {
+  max-width: 400px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-direction-column {
+  flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
